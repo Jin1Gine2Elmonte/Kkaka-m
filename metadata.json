@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Gemini Pro Agent",
+  "description": "An advanced AI agent inspired by Google's NotebookLM and AI Studio, allowing users to build and interact with the Gemini model through a versatile, developer-focused interface. Features include multi-modal input, configurable system prompts, search grounding, and streaming responses.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
